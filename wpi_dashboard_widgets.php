@@ -6,7 +6,7 @@
  * Global Variable: wpi_dashboard_widgets
  * Internal Slug: wpi_dashboard_widgets
  * JS Slug: wpi_dashboard_widgets
- * Version: 1.0
+ * Version: 1.0.0
  * Minimum Core Version: 3.09.0
  * Feature ID: 19
  * Description: Adds some useful widgets to the dashboard.
